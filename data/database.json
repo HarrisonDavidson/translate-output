@@ -1,0 +1,30 @@
+{
+    "names": ["Nashville", "Hong Kong", "The back yard", "Earth", "London", 
+    "The mall", "Ryman Auditorium", "The Great Wall of China"],
+    "enemies": [
+        {
+            "FirstName": "Joshua",
+            "LastName":  "Flowers",
+            "Offenses": ["being a jerk, not being nice"],
+            "IsReallyHated": true
+        },
+        {
+            "FirstName": "Darth",
+            "LastName":  "Vader",
+            "Offenses": ["cut off Luke's hand", "murder", "bad guy"],
+            "IsReallyHated": false
+        },
+        {
+            "FirstName": "Betty",
+            "LastName":  "Rudelady",
+            "Offenses": ["always on her phone", "poor conversationalist"],
+            "IsReallyHated": true
+        },
+        {
+            "FirstName": "Leon",
+            "LastName":  "Peck",
+            "Offenses": ["giving me a hot plate"],
+            "IsReallyHated": false
+        }
+    ]
+}
