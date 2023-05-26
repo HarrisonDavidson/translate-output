@@ -26,5 +26,32 @@
             "Offenses": ["giving me a hot plate"],
             "IsReallyHated": false
         }
+    ],
+    "spells": [
+    {
+        "Spellname": "Enemonus newtonus",
+        "IsEvil": true,
+        "ManaCost": "5BB"
+    },
+    {
+        "Spellname": "Expecto Aurum",
+        "IsEvil": false,
+        "ManaCost": "1W"
+    },
+    {
+        "Spellname": "Oculo Repairum",
+        "IsEvil": false,
+        "ManaCost": "1GG"
+    },
+    {
+        "Spellname": "God-mode",
+        "IsEvil": true,
+        "ManaCost": "WWUUBBRRGG"
+    },
+    {
+        "Spellname": "Relativo Convinco",
+        "IsEvil": false,
+        "ManaCost": "2UU"
+    }
     ]
 }
