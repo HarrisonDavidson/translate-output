@@ -19,13 +19,13 @@ return (
     <div>
       <h1>Spells</h1>
       {spells.map((spells, index) => (
-        <p key={index}>
-            <h2>{`${spells.Spellname}`}</h2>
+        <h2 key={index}>
+            <>{`${spells.Spellname}`}</>
             <li>
                 {spells.ManaCost}
             </li>
             {spells.IsEvil && <p> Unethical</p>}
-            </p>
+            </h2>
       ))}
     </div>
 </>

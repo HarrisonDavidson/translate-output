@@ -9,6 +9,10 @@
     list-style-type: none;
 }
 
+.navbar_link {
+    padding: 30px
+}
+
 .navbar__logout {
     margin-left: auto;
 }
